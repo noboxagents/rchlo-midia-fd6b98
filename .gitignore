@@ -1,0 +1,4 @@
+preview/
+_*.html
+montar.sh
+.DS_Store
